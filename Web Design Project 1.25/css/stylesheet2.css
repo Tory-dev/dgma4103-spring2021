@@ -1,0 +1,36 @@
+header{
+  text-align: center;
+
+}
+footer{
+  text-align: center;
+  color: #e1ddea;
+
+}
+body{
+  font-family: Arial;
+  background-color: #362e4a;
+  text-align: center;
+
+}
+
+h1, h2, h3, h4, h5{
+  color: #e1ddea;
+  background-color: #362e4a;
+  font-family: Arial;
+  outline: 1px solid white;
+
+
+}
+a{
+  color:#8879ad;
+  font-size: 125%;
+}
+.table{
+  columns: 3;
+  background-color: #362e4a;
+  opacity: 0.75;
+}
+.table img{
+  mix-blend-mode: lighten;
+}

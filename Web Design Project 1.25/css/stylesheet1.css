@@ -1,0 +1,33 @@
+header{
+  text-align: center;
+
+}
+footer{
+  text-align: center;
+  color: #f0f4f8;
+  position: absolute;
+  left: 500px;
+  bottom: 0px;
+
+}
+body{
+  font-family: Verdana;
+  background-color: #172531;
+  text-align: center;
+
+}
+
+h1, h2, h3, h4, h5{
+  color: #f0f4f8;
+  background-color: ;
+  font-family: Verdana;
+
+
+}
+a{
+  color:#cddbe7;
+  font-size: 125%;
+}
+.table{
+  column-count: 6;
+}
